@@ -1,38 +1,35 @@
 # Yanis Prevost
 
-## 👋 À propos de moi
-Je suis étudiant en informatique à Epitech Marseille, actuellement en Tek-2 (Promotion 2028).
+## 👋 About Me
+I am a computer science student at Epitech Marseille, currently in Tek-2 (Class of 2028).
 
-## 🎓 Formation
-- **Epitech Marseille** - Tek-2 (Promotion 2028)
-- Formation axée sur les projets et l'apprentissage par la pratique
+## 🎓 Education
+- **Epitech Marseille** - Tek-2 (Class of 2028)
+- Project-based learning and practical approach
 
-## 💻 Compétences techniques
-- **Langages de programmation**: C, C++, HTML, CSS, JavaScript, TypeScript
+## 💻 Technical Skills
+- **Programming Languages**: C, C++, HTML, CSS, JavaScript, TypeScript
 - **Frameworks & Technologies**: React Native
-- **Outils de développement**: GitHub, VSCode Insider, Cyberduck.io
+- **Development Tools**: GitHub, VSCode Insider, Cyberduck.io
 
-## 🚀 Projets
+## 🚀 Projects
 ### [Code4Sud](https://github.com/YanisPrevost/Code4Sud)
-Projet réalisé dans le cadre de l'initiative Code4Sud, visant à développer des solutions technologiques pour résoudre des problématiques locales. Utilisation des technologies web modernes pour créer une application répondant à des besoins spécifiques.
+Project carried out as part of the Code4Sud initiative, aimed at developing technological solutions to solve local issues. Using modern web technologies to create applications that meet specific needs.
 
 ### [Paint](https://github.com/YanisPrevost/Paint)
-Recréation d'une application de dessin similaire à Paint, développée en C++ avec une interface graphique interactive. Permet de dessiner, colorier et manipuler des images avec différents outils.
+Recreation of a drawing application similar to Paint, developed in C++ with an interactive graphical interface. Allows drawing, coloring and manipulating images with various tools.
 
 ### [Minishell](https://github.com/YanisPrevost/Minishell)
-Implémentation d'un shell simplifié en C, inspiré de bash. Permet d'exécuter des commandes basiques, gérer les redirections, les pipes et les variables d'environnement.
+Implementation of a simplified shell in C, inspired by bash. Allows executing basic commands, managing redirections, pipes, and environment variables.
 
 ### [RPG](https://github.com/YanisPrevost/RPG)
-Jeu de type Role Player Game développé en C avec la bibliothèque CSFML. Comprend un système de combat, des personnages avec différentes caractéristiques, une carte explorable et des quêtes à accomplir !
+Role-Playing Game developed in C with the CSFML library. Includes a combat system, characters with different characteristics, an explorable map, and quests to complete!
 
-## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=YanisPrevost&show_icons=true&theme=radical)
-
-## 🌐 Liens
+## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
 
 ## 📫 Contact
-N'hésitez pas à me contacter par mail: prevostyanisdu13@epitech.eu
+Feel free to contact me by email: prevostyanisdu13@epitech.eu
 
 ---
-⭐️ De [YanisPrevost](https://github.com/YanisPrevost)
+⭐️ From [YanisPrevost](https://github.com/YanisPrevost)
