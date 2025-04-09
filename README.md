@@ -23,7 +23,7 @@ Recréation d'une application de dessin similaire à Paint, développée en C++ 
 Implémentation d'un shell simplifié en C, inspiré de bash. Permet d'exécuter des commandes basiques, gérer les redirections, les pipes et les variables d'environnement.
 
 ### [RPG](https://github.com/YanisPrevost/RPG)
-Jeu de type Role Player Game développé en C avec la bibliothèque CSFML. Comprend un système de combat, des personnages avec différentes caractéristiques, une carte explorable et des quêtes à accomplir.
+Jeu de type Role Player Game développé en C avec la bibliothèque CSFML. Comprend un système de combat, des personnages avec différentes caractéristiques, une carte explorable et des quêtes à accomplir !
 
 ## 📊 Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=YanisPrevost&show_icons=true&theme=radical)
