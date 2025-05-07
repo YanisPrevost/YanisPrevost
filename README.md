@@ -25,6 +25,9 @@ Implementation of a simplified shell in C, inspired by bash. Allows executing ba
 ### [RPG](https://github.com/YanisPrevost/RPG)
 Role-Playing Game developed in C with the CSFML library. Includes a combat system, characters with different characteristics, an explorable map, and quests to complete!
 
+### [RayTracer](https://github.com/YanisPrevost/RayTracer)
+3D rendering engine based on ray tracing technique, developed in C++. Features include rendering of 3D primitives (spheres, cylinders, cones, planes...), lighting system with directional and point light sources, dynamic loading of plugins, and flexible scene configuration through config files.
+
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
 
