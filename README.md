@@ -28,6 +28,9 @@ Role-Playing Game developed in C with the CSFML library. Includes a combat syste
 ### [RayTracer](https://github.com/YanisPrevost/RayTracer)
 3D rendering engine based on ray tracing technique, developed in C++. Features include rendering of 3D primitives (spheres, cylinders, cones, planes...), lighting system with directional and point light sources, dynamic loading of plugins, and flexible scene configuration through config files.
 
+### [Zappy](https://github.com/YanisPrevost/Zappy)
+Multiplayer strategy game project developed in C/C++ with an SFML GUI, a TCP server, and Python AI clients. The game features teams competing to reach the maximum level and achieve victory.
+
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
 
