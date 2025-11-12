@@ -4,7 +4,7 @@
 I am a computer science student at Epitech Marseille, currently in Tek-2 (Class of 2028).
 
 ## 🎓 Education
-- **Epitech Marseille** - Tek-2 (Class of 2028)
+- **Epitech Marseille** - Tek-3 (Class of 2028)
 - Project-based learning and practical approach
 
 ## 💻 Technical Skills
