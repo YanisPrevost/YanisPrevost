@@ -1,7 +1,7 @@
 # Yanis Prevost
 
 ## 👋 About Me
-I am a computer science student at Epitech Marseille, currently in Tek-2 (Class of 2028).
+I am a computer science student at Epitech Marseille, currently in Tek-3 (Class of 2028).
 
 ## 🎓 Education
 - **Epitech Marseille** - Tek-3 (Class of 2028)
