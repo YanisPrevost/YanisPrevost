@@ -35,7 +35,7 @@ Multiplayer strategy game project developed in C/C++ with an SFML GUI, a TCP ser
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
 
 ## 📫 Contact
-Feel free to contact me by email: prevostyanisdu13@epitech.eu
+Feel free to contact me by email: prevostyanisdu13@gmail.com
 
 ---
 ⭐️ From [YanisPrevost](https://github.com/YanisPrevost)
