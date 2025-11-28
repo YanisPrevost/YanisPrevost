@@ -51,9 +51,12 @@ AREA is an automation platform that allows users to create workflows connecting 
 
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
+- [Instagram](https://www.instagram.com/yanis.prvt/)
 
 ## 📫 Contact
-Feel free to contact me by email: prevostyanisdu13@gmail.com
+Feel free to contact me by
+  -  email: prevostyanisdu13@gmail.com
+  -  phone: +33 7 67 25 16 26
 
 ---
 ⭐️ From [YanisPrevost](https://github.com/YanisPrevost)
