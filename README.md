@@ -8,7 +8,7 @@ I have a strong passion for programming and technology, and I enjoy working on v
 - **Baccalauréat Scientifique** - Lycée Pastré Grande Bastide, Marseille France
   - Specialization in Physics and Chemistry
 - **Epitech Marseille** - Tek-3 (Class of 2028)
-- Project-based learning and practical approach
+  - Project-based learning and practical approach
 
 ## 💻 Technical Skills
 - **Programming Languages**: C, C++, HTML, CSS, JavaScript, TypeScript
