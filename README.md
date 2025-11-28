@@ -5,6 +5,8 @@ I am a computer science student at Epitech Marseille, currently in Tek-3 (Class 
 I have a strong passion for programming and technology, and I enjoy working on various projects that challenge my skills and creativity. I am eager to learn new technologies and contribute to innovative solutions.
 
 ## 🎓 Education
+- **Baccalauréat Scientifique** - Lycée Pastré Grande Bastide, Marseille France
+  - Specialization in Physics and Chemistry
 - **Epitech Marseille** - Tek-3 (Class of 2028)
 - Project-based learning and practical approach
 
