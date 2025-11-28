@@ -29,6 +29,7 @@ I have a strong passion for programming and technology, and I enjoy working on v
   ![SFML](https://img.shields.io/badge/SFML-4FA8FF?style=flat)
 
 - **Development Tools**:
+
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YanisPrevost)
   [![VSCode Insider](https://img.shields.io/badge/VSCode%20Insiders-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/insiders/)
   [![Cyberduck](https://img.shields.io/badge/Cyberduck-FF6C00?style=flat&logo=cyberduck&logoColor=white)](https://cyberduck.io/)
