@@ -2,6 +2,7 @@
 
 ## 👋 About Me
 I am a computer science student at Epitech Marseille, currently in Tek-3 (Class of 2028).
+I have a strong passion for programming and technology, and I enjoy working on various projects that challenge my skills and creativity. I am eager to learn new technologies and contribute to innovative solutions.
 
 ## 🎓 Education
 - **Epitech Marseille** - Tek-3 (Class of 2028)
