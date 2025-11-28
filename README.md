@@ -31,6 +31,9 @@ Role-Playing Game developed in C with the CSFML library. Includes a combat syste
 ### [Zappy](https://github.com/YanisPrevost/Zappy)
 Multiplayer strategy game project developed in C/C++ with an SFML GUI, a TCP server, and Python AI clients. The game features teams competing to reach the maximum level and achieve victory.
 
+### [AREA](https://github.com/YanisPrevost/AREA)
+AREA is an automation platform that allows users to create workflows connecting different web services. Inspired by IFTTT (If This Then That), AREA enables users to define Actions that trigger automatic REActions.
+
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
 
