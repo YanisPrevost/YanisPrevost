@@ -11,15 +11,37 @@ I have a strong passion for programming and technology, and I enjoy working on v
   - Project-based learning and practical approach
 
 ## Technical Skills
-- **Programming Languages**: C, C++, JavaScript, TypeScript, Python
-- **Frameworks & Technologies**: React Native, Node.js, Express.js, SFML
-- **Development Tools**: 
+- **Programming Languages**:
+
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- **Frameworks & Technologies**:
+
+  ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![SFML](https://img.shields.io/badge/SFML-4FA8FF?style=flat)
+
+- **Development Tools**:
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YanisPrevost)
   [![VSCode Insider](https://img.shields.io/badge/VSCode%20Insiders-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/insiders/)
   [![Cyberduck](https://img.shields.io/badge/Cyberduck-FF6C00?style=flat&logo=cyberduck&logoColor=white)](https://cyberduck.io/)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)](https://getfedora.org/)
-- **Databases**: MySQL, PostgreSQL, Supabase, Firebase
+
+- **Databases**:
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=google-firebase&logoColor=black)
+
 - **Languages**: French (Native), English (Professional Proficiency)
 
 ## Work Experience
