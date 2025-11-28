@@ -10,10 +10,15 @@ I have a strong passion for programming and technology, and I enjoy working on v
 - **Epitech Marseille** - Tek-3 (Class of 2028)
   - Project-based learning and practical approach
 
-## 💻 Technical Skills
+## Technical Skills
 - **Programming Languages**: C, C++, JavaScript, TypeScript, Python
 - **Frameworks & Technologies**: React Native, Node.js, Express.js, SFML
-- **Development Tools**: GitHub, VSCode Insiders, Linux (Fedora), Docker
+- **Development Tools**: 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YanisPrevost)
+  [![VSCode Insider](https://img.shields.io/badge/VSCode%20Insiders-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/insiders/)
+  [![Cyberduck](https://img.shields.io/badge/Cyberduck-FF6C00?style=flat&logo=cyberduck&logoColor=white)](https://cyberduck.io/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)](https://getfedora.org/)
 - **Databases**: MySQL, PostgreSQL, Supabase, Firebase
 - **Languages**: French (Native), English (Professional Proficiency)
 
@@ -59,4 +64,4 @@ Feel free to contact me by
   -  phone: +33 7 67 25 16 26
 
 ---
-⭐️ From [YanisPrevost](https://github.com/YanisPrevost)
+From [YanisPrevost](https://github.com/YanisPrevost)
