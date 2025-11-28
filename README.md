@@ -11,9 +11,21 @@ I have a strong passion for programming and technology, and I enjoy working on v
   - Project-based learning and practical approach
 
 ## 💻 Technical Skills
-- **Programming Languages**: C, C++, HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Technologies**: React Native
-- **Development Tools**: GitHub, VSCode Insider, Cyberduck.io
+- **Programming Languages**: C, C++, JavaScript, TypeScript, Python
+- **Frameworks & Technologies**: React Native, Node.js, Express.js, SFML
+- **Development Tools**: GitHub, VSCode Insiders, Linux (Fedora), Docker
+- **Databases**: MySQL, PostgreSQL, Supabase, Firebase
+- **Languages**: French (Native), English (Professional Proficiency)
+
+## 📂 Work Experience
+- **Internship at BIG** - July 2023 - December 2024
+  - Developed a web application using FlutterFlow.io and Firebase, Developed a mobile application using React Native and Node.js
+  - Gained experience in full-stack development and project management
+
+- **Part-time Internship at LIRISCOM** - September 2025 - Now
+  - Contributed to the development of the conpany's website using modern web technologies
+  - Teams and collaborative environment
+  - Developping a secured user managment database from scratch using Supabase (PostgreSQL)
 
 ## 🚀 Projects
 ### [Code4Sud](https://github.com/YanisPrevost/Code4Sud)
