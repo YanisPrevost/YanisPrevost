@@ -75,6 +75,9 @@ Multiplayer strategy game project developed in C/C++ with an SFML GUI, a TCP ser
 ### [AREA](https://github.com/YanisPrevost/AREA)
 AREA is an automation platform that allows users to create workflows connecting different web services. Inspired by IFTTT (If This Then That), AREA enables users to define Actions that trigger automatic REActions.
 
+### [R-type](https://github.com/YanisPrevost/R-type)
+R-type is a classic horizontal scrolling shooter game recreation, developed in C++ using the SFML library.
+
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/yanis-prevost-23b7002b6/)
 - [Instagram](https://www.instagram.com/yanis.prvt/)
