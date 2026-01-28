@@ -59,7 +59,6 @@ I have a strong passion for programming and technology. Currently a **Tek-3 stud
 </td>
 </tr>
 </table>
----
 
 <h2 id="projects">💻 Featured Projects</h2>
 
