@@ -59,12 +59,6 @@ I have a strong passion for programming and technology. Currently a **Tek-3 stud
 </td>
 </tr>
 </table>
-
-<h2 id="education">🎓 Education</h2>
-
-- **Epitech Marseille** (2028) - <i>Tek-3, Project-based learning</i>
-- **Baccalauréat Scientifique** - <i>Lycée Pastré Grande Bastide (Physics & Chemistry)</i>
-
 ---
 
 <h2 id="projects">💻 Featured Projects</h2>
