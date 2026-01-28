@@ -1,6 +1,6 @@
 <div align="center">
-    <h1 style="border-bottom: none;">🚀 Yanis Prevost 🚀</h1>
-    <h3><i>Computer Science Student @ Epitech Marseille (Class of 2028)</i></h3>
+    <h1 style="border-bottom: none;">Yanis Prevost</h1>
+    <h3><i>Computer Science Student @EpitechMarseille</i></h3>
     <p>
         <a href="#about-me">About Me</a> •
         <a href="#technical-skills">Skills</a> •
@@ -72,48 +72,48 @@ I have a strong passion for programming and technology. Currently a **Tek-3 stud
 <table>
 <tr>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/Code4Sud">🌐 Code4Sud</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/Code4Sud">Code4Sud</a></h3>
     <p align="center"><i>Technological solutions for local issues.</i></p>
     <p>Project carried out as part of the Code4Sud initiative. Uses modern web technologies to create applications that meet specific local needs.</p>
 </td>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/AREA">⚡ AREA</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/AREA">AREA</a></h3>
     <p align="center"><i>Automation Platform</i></p>
     <p>Inspired by IFTTT, AREA allows users to define Actions that trigger automatic REActions, connecting various web services into workflows.</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/Zappy">🎮 Zappy</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/Zappy">Zappy</a></h3>
     <p align="center"><i>Multiplayer Strategy Game</i></p>
     <p>A complex project involving a C/C++ server, SFML GUI, and Python AI clients. Teams compete to evolve and survive in a simulated world.</p>
 </td>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/RayTracer">🖼️ RayTracer</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/RayTracer">RayTracer</a></h3>
     <p align="center"><i>3D Rendering Engine</i></p>
     <p>A C++ 3D renderer using ray tracing. Features 3D primitives, dynamic lighting, and plugin-based architecture for flexible scene configuration.</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/R-type">🚀 R-Type</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/R-type">R-Type</a></h3>
     <p align="center"><i>Classic Shooter Recreation</i></p>
     <p>A multiplayer horizontal scrolling shooter game recreation, developed effectively in C++ using the SFML library.</p>
 </td>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/Minishell">🐚 Minishell</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/Minishell">Minishell</a></h3>
     <p align="center"><i>Unix Shell Implementation</i></p>
     <p>A simplified shell in C inspired by bash. Handles basic commands, redirections, pipes, and environment variables.</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/RPG">⚔️ RPG</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/RPG">RPG</a></h3>
     <p align="center"><i>Role-Playing Game</i></p>
     <p>Developed in C with CSFML. Includes combat systems, character stats, an explorable map, and quests.</p>
 </td>
 <td width="50%">
-    <h3 align="center"><a href="https://github.com/YanisPrevost/Paint">🎨 Paint</a></h3>
+    <h3 align="center"><a href="https://github.com/YanisPrevost/Paint">Paint</a></h3>
     <p align="center"><i>Drawing Application</i></p>
     <p>A C++ recreation of Paint. Allows drawing, coloring, and manipulating images with an interactive graphical interface.</p>
 </td>
